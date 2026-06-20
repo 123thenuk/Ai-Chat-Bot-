@@ -10,6 +10,42 @@ It allows you to train a small Transformer-based language model on your own text
 Made by **Chubby**
 
 ---
+## 🚀 First Steps (Setup)
+
+### 1. Create virtual environment
+
+Windows:
+python -m venv venv
+venv\Scripts\activate
+
+Linux / Mac:
+python3 -m venv venv
+source venv/bin/activate
+
+---
+
+### 2. Install requirements
+pip install -r requirements.txt
+
+---
+
+### 3. Create model folder
+mkdir model
+
+---
+
+### 4. (Optional) Install PyTorch GPU version
+
+If you have NVIDIA GPU:
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+---
+
+### 5. Run training
+python train.py
+
+
+
 
 ## 🚀 What is this?
 
