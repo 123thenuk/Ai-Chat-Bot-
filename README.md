@@ -7,7 +7,7 @@ It allows you to train a small Transformer-based language model on your own text
 
 ## 👨‍💻 Author
 
-Made by **Chubby**
+Made by **Noone**
 
 ---
 ## 🚀 First Steps (Setup)
@@ -143,4 +143,4 @@ python chat.py
 
 ## 👨‍💻 Made by
 
-Chubby
+Noone
